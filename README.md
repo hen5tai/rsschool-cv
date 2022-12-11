@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://hen5tai.github.io/rsschool-cv/cv
