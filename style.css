@@ -20,7 +20,7 @@ header>nav>ul{
     align-items: center;
 }
 .liFonts{
-    font-weight: 600;    
+    font-weight: 600;
     text-decoration: underline 0.15em rgba(255, 255, 255, 0);
     transition: text-decoration-color 300ms;
     transition: 2s;
@@ -34,9 +34,9 @@ header>nav>ul{
     text-decoration: underline;
     transform: scale(1.1);
     transition: 5s;
-    transition-duration: 2s; 
-    transition-timing-function:cubic-bezier(.1, -1.5, .1, 2.5); 
-    text-decoration-color: #BFC9D2;    
+    transition-duration: 2s;
+    transition-timing-function:cubic-bezier(.1, -1.5, .1, 2.5);
+    text-decoration-color: #BFC9D2;
 }
 footer{
     background-color: #2D4E6A;
@@ -48,7 +48,7 @@ footer{
 }
 .mainFoto{
     width: 14%;
-    border-radius: 160px;    
+    border-radius: 160px;
 }
 .navLinks{
     text-decoration: none;
@@ -60,7 +60,7 @@ footer{
 .socialImg:hover{
     transform: scale(1.1);
     transition: 5s;
-    transition-duration: 2s; 
+    transition-duration: 2s;
     transition-timing-function:cubic-bezier(.1, -1.5, .1, 2.5);
 }
 .skillsList{
